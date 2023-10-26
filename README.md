@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SriSindhuMallela
+- 👋 Hi, I’m @Sri Sindhu Mallela
 - 👀 I’m interested in Data Analytics, Data Science and Machine Learning
 - 🌱 I’m Data Science Graduate from University of Missouri - Kansas City
 - 💞️ I’m looking to collaborate on Data Analytics and Data Science Projects
